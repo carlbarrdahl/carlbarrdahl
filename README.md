@@ -1,4 +1,4 @@
-# Carl Barrdahl
+# Resume / CV
 
 Javascript developer with a wide array of experience working on projects such as realtime mobile games, e-commerce sites, an analytics dashboard for internet of things data, a food-ordering app, a ticketing platform, bots and more.
 
