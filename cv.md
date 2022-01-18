@@ -104,8 +104,6 @@ Shopify App for cashier-free food-trucks, cafés, restaurants, festivals, arenas
 
 A custom-made sales channel UI has also been built for easy ordering. This shop can be linked in Google Maps so a "Place Order" button is displayed for the customers convenience.
 
-b0tt0 is a platform for food-trucks, cafés, bars, festivals, arenas etc where ordering and payments of products are made online while keeping the customer updated when order is being prepared and ready for pickup.
-
 ReMarkable sketches:  
 ![](https://user-images.githubusercontent.com/2961337/149952221-e09c1868-fb70-4d2a-b0b4-88e69a961025.png)
 ![](https://user-images.githubusercontent.com/2961337/149952218-4c49c9bc-a4af-4187-a267-de39456cb1b1.png)
