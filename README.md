@@ -6,11 +6,11 @@ Javascript developer with a wide array of experience working on projects such as
 
 ## Contents:
 
-1. [Technical skills](#technical-skills)
-2. [Work](#work)
-3. [Side-projects](#side-projects)
-4. [Web3 Hackathons](#hackathons)
-5. [Education](#education)
-6. [Volunteering](#volunteering)
+1. [Technical skills](https://github.com/carlbarrdahl/carlbarrdahl/blob/master/cv.md#technical-skills)
+2. [Work](https://github.com/carlbarrdahl/carlbarrdahl/blob/master/cv.md#work)
+3. [Side-projects](https://github.com/carlbarrdahl/carlbarrdahl/blob/master/cv.md#side-projects)
+4. [Web3 Hackathons](https://github.com/carlbarrdahl/carlbarrdahl/blob/master/cv.md#hackathons)
+5. [Education](https://github.com/carlbarrdahl/carlbarrdahl/blob/master/cv.md#education)
+6. [Volunteering](https://github.com/carlbarrdahl/carlbarrdahl/blob/master/cv.md#volunteering)
 
 ...
