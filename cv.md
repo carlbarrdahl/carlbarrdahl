@@ -27,6 +27,7 @@ Javascript developer with a wide array of experience working on projects such as
 - Testing (Jest, Cypress)
 - API integration (Stripe, Google, Youtube)
 - Charts (Nivo, Recharts)
+- Content (Markdown, MDX)
 - Figma
 - Web3 (Ceramic Network, basic Solidity)
 
