@@ -26,6 +26,7 @@ Javascript developer with a wide array of experience working on projects such as
 - ORM (Prisma, Knex, Sequelize, TypeORM)
 - Testing (Jest, Cypress)
 - API integration (Stripe, Google, Youtube)
+- Charts (Nivo, Recharts)
 - Figma
 - Web3 (Ceramic Network, basic Solidity)
 
