@@ -100,21 +100,6 @@ Technologies: React (Next.js), Three.js (react-three-fiber)
 Link: https://kaleido.on.fleek.co  
 Example artwork: https://kaleido.on.fleek.co/gallery
 
-### b0tt0 `2019 - `
-
-Shopify App for cashier-free food-trucks, cafés, restaurants, festivals, arenas etc. Merchants connects a Shopfiy app and get access to a Trello-like board with lanes to handle incoming orders. When orders are pushed along the lane, the customer is updated with their new queue position and when it's ready for pickup.
-
-A custom-made sales channel UI has also been built for easy ordering. This shop can be linked in Google Maps so a "Place Order" button is displayed for the customers convenience.
-
-ReMarkable sketches:  
-![](https://user-images.githubusercontent.com/2961337/149952221-e09c1868-fb70-4d2a-b0b4-88e69a961025.png)
-![](https://user-images.githubusercontent.com/2961337/149952218-4c49c9bc-a4af-4187-a267-de39456cb1b1.png)
-![](https://user-images.githubusercontent.com/2961337/149952216-bdc00794-8f92-4b75-bc2b-e2ca348cb16c.png)
-![](https://user-images.githubusercontent.com/2961337/149952214-8b37e307-4290-4320-b282-0f54bbd8711a.png)
-
-Shop UI:  
-![](https://user-images.githubusercontent.com/2961337/149950889-b9620f36-225d-4975-9fef-17d1da9952ef.png)
-
 ### Music project marketplace `2020`
 
 A marketplace for music creators to sell their project files. Embeds a YouTube video explaining the contents of the project and integrates Stripe for payments.
