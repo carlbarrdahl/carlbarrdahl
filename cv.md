@@ -141,8 +141,6 @@ Experimenting with Progressive Web Apps (PWA), web scrapers and JSON+LD.
 I often just search for recipes on Google with my phone but the pages are filled with articles, ads and other non-relevant content with no easy way to save these recipes for future use.
 I built a product to simply share the recipe to a PWA (using Web Share Target API). This will trigger a robot to crawl the recipe data and store in a Firebase database.
 
-![](https://user-images.githubusercontent.com/2961337/149950703-dc43b8ac-18a0-453c-8f40-b0303bdc0293.png)
-
 Technologies: React, Theme-UI, Firebase, Puppeteer (scraper)  
 Link: https://recipes-e0cee.web.app/recipes
 
