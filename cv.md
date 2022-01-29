@@ -37,9 +37,7 @@ Javascript developer with a wide array of experience working on projects such as
 
 _Independent freelance consultant_
 
-- Frontend development with React
-- Backend development with Node.js
-- Oauth2 authentication
+- Various projects. Mostly frontend development with Next.js and Chakra-UI.
 
 ### Evolve Technologies `2018.03 - 2019.06`
 
