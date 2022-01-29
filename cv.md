@@ -35,7 +35,7 @@ Javascript developer with a wide array of experience working on projects such as
 
 ### Zephyr Valley `2020.01 - Current`
 
-_Independent consultant_
+_Independent freelance consultant_
 
 - Frontend development with React
 - Backend development with Node.js
