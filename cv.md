@@ -102,9 +102,9 @@ Example artwork: https://kaleido.on.fleek.co/gallery
 
 A marketplace for music creators to sell their project files. Embeds a YouTube video explaining the contents of the project and integrates Stripe for payments.
 
-![](https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/figma.png)
-![](https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/landing.png)
-![](https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/view_project.png)
+![](https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/figma.png | 30%)
+![](https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/landing.png | 30%)
+![](https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/view_project.png | 30%)
 
 Technologies: React, Stripe, Firebase  
 Link: https://loopsquare.web.app/zen-world/project-name
