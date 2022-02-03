@@ -102,9 +102,11 @@ Example artwork: https://kaleido.on.fleek.co/gallery
 
 A marketplace for music creators to sell their project files. Embeds a YouTube video explaining the contents of the project and integrates Stripe for payments.
 
-<img src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/figma.png" alt="drawing" width="30%"/>
-<img src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/landing.png" alt="drawing" width="30%"/>
-<img src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/view_project.png" alt="drawing" width="30%"/>
+<div>
+  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/figma.png" alt="Figma sketch" width="32%"/>
+  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/landing.png" alt="Landing page" width="32%"/>
+  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/view_project.png" alt="View project" width="32%"/>
+</div>
 
 Technologies: React, Stripe, Firebase  
 Link: https://loopsquare.web.app/zen-world/project-name
@@ -121,17 +123,17 @@ Future improvements could include adding Swish (similar to BankID but for sms pa
 
 Some documents might be sensitive to store on central servers. In that case something like ipfs could be used to store the documents and then secure them with smart contracts on a blockchain, Ethereum for instance.
 
-![](https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/create.png)
-Contracts are easily created by dragging a document to upload (or browsing) and filling out the details. Start and end date for contract validity can be set and participants can be added by entering their email.
-
-![](https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/view.png)
-Documents are embedded to easily be read without need of downloading. Future improvements can include templates to dynamically generate documents based on data.
-
-![](https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/sign.png)
-Sign contract by entering your SSN and open app on mobile. QR code can be added for a more secure (and convenient) signing experience.
-
-![](https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/list.png)
-![](https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/webhooks.png)
+<div>
+  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/create.png" alt="Create contract" width="32%"/>
+  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/view.png" alt="View contract" width="32%"/>
+  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/sign.png" alt="Sign contract" width="32%"/>
+  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/list.png" alt="List contracts" width="32%"/>
+  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/webhooks.png" alt="Webhooks" width="32%"/>
+</div
+  
+- Contracts are easily created by dragging a document to upload (or browsing) and filling out the details. Start and end date for contract validity can be set and participants can be added by entering their email.
+- Documents are embedded to easily be read without need of downloading. Future improvements can include templates to dynamically generate documents based on data.
+- Sign contract by entering your SSN and open app on mobile. QR code can be added for a more secure (and convenient) signing experience.
 
 ### Recipe app `2020`
 
@@ -147,7 +149,7 @@ Link: https://recipes-e0cee.web.app/recipes
 Playing around with QR codes and crypto.
 Simple Progressive Web App built in React to generate QR codes and links for payments in swedish banking app Swish. This makes it easier to share payments between people for splitting bills for example. Using crypto to encrypt phone number and payment data so they can safely be shared in the url.
 
-![](https://raw.githubusercontent.com/carlbarrdahl/swisher/master/static/screen.png)
+<img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/swisher/master/static/screen.png" alt="Swisher App UI" width="32%"/>
 
 Technologies: React (gatsby), Tailwind, Netlify  
 Link: http://swisher.carlb.dev  
@@ -182,8 +184,10 @@ _🥇 Winner of Open Prize: Best Hack Using Self.ID Or Glaze in Sovereign Data H
 
 Decentralized Google Forms platform with Ceramic Network. Create forms and surveys with json-schemas and share with your friends. Forms and responses are stored on ipfs connected to your web3 wallet.
 
-![](https://raw.githubusercontent.com/carlbarrdahl/skulptur/master/screenshot.png)
-
+<div>
+  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/skulptur/master/screenshot.png" alt="Skulptur App UI" width="32%"/>
+</div
+  
 Technologies: Next.js, Chakra-UI, Ceramic Network  
 Code: https://github.com/carlbarrdahl/skulptur  
 Link: https://skulptur.vercel.app
@@ -192,8 +196,10 @@ Link: https://skulptur.vercel.app
 
 IDO launchpad platform built for DeFi & Cross-Chain Interoperability Hackathon.
 
-![](https://raw.githubusercontent.com/carlbarrdahl/atoll-ido/master/screenshot2.png)
-
+<div>
+  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/atoll-ido/master/screenshot2.png" alt="Atoll IDO" width="32%"/>
+</div
+ 
 Technologies: Next.js, Polkadot, Chakra-UI, Solidity  
 Code: https://github.com/carlbarrdahl/atoll-ido  
 Link: https://atoll-ido.web.app
@@ -204,9 +210,11 @@ _🥇 Winner of Reef Payment API in DeFi & Cross-chain Interoperability Hackatho
 
 Merchants with online store can choose to accept payments with REEF wallet.
 
-![](https://raw.githubusercontent.com/carlbarrdahl/reef-payment-api/master/screenshot_admin.png)
-![](https://raw.githubusercontent.com/carlbarrdahl/reef-payment-api/master/screenshot_shop1.png)
-![](https://raw.githubusercontent.com/carlbarrdahl/reef-payment-api/master/screenshot_checkout.png)
+<div>
+  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/reef-payment-api/master/screenshot_admin.png" alt="Admin UI" width="32%"/>
+  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/reef-payment-api/master/screenshot_shop1.png" alt="Shop UI" width="32%"/>
+  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/reef-payment-api/master/screenshot_checkout.png" alt="Checkout UI" width="32%"/>
+</div
 
 Technologies: Next.js, Chakra-UI, Firebase, Polkadot  
 Code: https://github.com/carlbarrdahl/reef-payment-api  
@@ -216,7 +224,8 @@ Link: https://reef-payment-api.web.app/
 
 Off-chaing Conviction Voting using Ceramic, IDX and TheGraph.
 
-![](https://raw.githubusercontent.com/carlbarrdahl/conviction-voting/master/ceramic_voting.png)
+<img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/conviction-voting/master/ceramic_voting.png" alt="Conviction Voting UI" width="32%"/>
+
 Technologies: React, Ceramic Network, Fastify, Typescript  
 Code: https://github.com/carlbarrdahl/conviction-voting
 
