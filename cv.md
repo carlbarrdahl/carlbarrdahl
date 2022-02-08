@@ -90,13 +90,30 @@ _Game developer_
 
 ## Side-projects
 
+### 📅 Kaly `2022 - `
+A decentralized calendar and scheduling app built with Ceramic.
+
+<div>
+  <img align="top" width="50%" src="https://github.com/carlbarrdahl/kaly/raw/master/public/kaly.jpg" />
+</div>
+
+Technologies:  Next.js, Chakra-UI, Ceramic Network  
+Link: https://kaly.vercel.app  
+Code: https://github.com/carlbarrdahl/kaly
+
 ### 🌼 Kaleido `2020 - `
 
 Experiment with Three.js and camera. Transforms the camera feed into a kaleidoscope using WebGL shaders. Simple controls to change the parameters for the shaders.
+ERC721 Contract with bonding curve to determine minting price
+
+<div>
+  <img align="top" width="40%" src="https://github.com/carlbarrdahl/kaleido-nft/raw/master/kaleido_screenshot_app.png">
+  <img align="top" width="54%" src="https://github.com/carlbarrdahl/kaleido-nft/raw/master/kaleido_screenshot_full.png">
+</div>
 
 Technologies: React (Next.js), Three.js (react-three-fiber)  
-Link: https://kaleido.on.fleek.co  
-Example artwork: https://kaleido.on.fleek.co/gallery
+Link: https://kaleido-nft.vercel.app  
+Code: https://github.com/carlbarrdahl/kaleido-nft
 
 ### Music project marketplace `2020`
 
