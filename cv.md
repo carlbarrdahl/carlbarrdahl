@@ -115,7 +115,7 @@ Technologies: React (Next.js), Three.js (react-three-fiber)
 Link: https://kaleido-nft.vercel.app  
 Code: https://github.com/carlbarrdahl/kaleido-nft
 
-### Music project marketplace `2020`
+### Music project marketplace `2019`
 
 A marketplace for music creators to sell their project files. Embeds a YouTube video explaining the contents of the project and integrates Stripe for payments.
 
@@ -128,7 +128,7 @@ A marketplace for music creators to sell their project files. Embeds a YouTube v
 Technologies: React, Stripe, Firebase  
 Link: https://loopsquare.web.app/zen-world/project-name
 
-### Pakt `2020`
+### Pakt `2019`
 
 Create, manage and sign digital contracts using the mobile app BankID (used in Sweden to authenticate your identity).
 
@@ -152,7 +152,7 @@ Some documents might be sensitive to store on central servers. In that case some
 - Documents are embedded to easily be read without need of downloading. Future improvements can include templates to dynamically generate documents based on data.
 - Sign contract by entering your SSN and open app on mobile. QR code can be added for a more secure (and convenient) signing experience.
 
-### Recipe app `2020`
+### Recipe app `2019`
 
 Experimenting with Progressive Web Apps (PWA), web scrapers and JSON+LD.
 I often just search for recipes on Google with my phone but the pages are filled with articles, ads and other non-relevant content with no easy way to save these recipes for future use.
