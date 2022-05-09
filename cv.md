@@ -278,6 +278,8 @@ Code: https://github.com/carlbarrdahl/conviction-voting
 - Hardware programming
 
 ## Volunteering
+### Yoga retreat center `2022.04 - `
+- Helping out in the kitchen to cook vegan food for retreat guests.
 
 ### Yoga retreat center `2021.04 - 2021.09`
 
