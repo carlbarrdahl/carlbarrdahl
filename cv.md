@@ -18,6 +18,7 @@ Javascript developer with a wide array of experience working on projects such as
 - React (Next.js, Gatsby)
 - Node.js (Express, Fastify)
 - Typescript
+- Smart Contracts (Solidity, OpenZeppelin)
 - Data fetching (Apollo, React-Query)
 - API (GraphQL, OpenAPI, Swagger)
 - Authentication (Oauth2, Auth0, Web3)
@@ -38,6 +39,7 @@ Javascript developer with a wide array of experience working on projects such as
 _Independent freelance consultant_
 
 - Various projects. Mostly frontend development with Next.js and Chakra-UI.
+- Smart Contract / Blockchain applications using Solidity and React for frontend
 
 ### Evolve Technologies `2018.03 - 2019.06`
 
@@ -89,6 +91,24 @@ _Game developer_
 - Cross device development (desktop, tablets, phones)
 
 ## Side-projects
+
+### 🚀 Git DAO `2022 - `
+
+A hybrid Web2/Web3 platform to create a DAO from your public GitHub repo. A token is created which can be used to incentizie contributions. A project is a Vesting Wallet with 365 days linear vesting.
+
+1. Sign in with GitHub to see a list of repos the user has access to
+2. A backend service creates a hash and signature after verifying user has in fact access
+3. Send repo to smart contract which verifies signature and creates a project
+4. An ERC20 token with 1M supply is created and mints 10k to owner (1% of all tokens)
+5. The owner can optionally supply their tokens to Uniswap with ETH to create initial market
+6. People can participate by contributing with code, bug reports or other ways to create value to the project and be rewarded in tokens for their work.
+7. People or companies can fund the project or even specific issues to help with prioritization
+
+<div>
+  <img align="top" width="30%" src="https://github.com/carlbarrdahl/git-dao/raw/master/.screenshots/onboard_1.png" />
+  <img align="top" width="30%" src="https://github.com/carlbarrdahl/git-dao/raw/master/.screenshots/onboard_2.png" />
+  <img align="top" width="30%" src="https://github.com/carlbarrdahl/git-dao/raw/master/.screenshots/project_1.png" />
+</div>
 
 ### 📅 Kaly `2022 - `
 A decentralized calendar and scheduling app built with Ceramic.
