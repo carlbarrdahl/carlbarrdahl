@@ -2,7 +2,7 @@
 
 Javascript developer with a wide array of experience working on projects such as realtime mobile games, e-commerce sites, an analytics dashboard for internet of things data, a food-ordering app, a ticketing platform, bots and more.
 
-+6 year experience in React and Node.js development. Quick and efficient. Knowledgeable in ecosystem and best-practices.
++8 year experience in React and Node.js development. Favorite tools include Next.js, Chakra-UI, tRPC, Prisma, Turborepo, React Hook Forms, React Query, Zod and Supabase.
 
 ## Contents:
 
@@ -278,7 +278,7 @@ Code: https://github.com/carlbarrdahl/conviction-voting
 - Hardware programming
 
 ## Volunteering
-### Yoga retreat center `2022.04 - `
+### Yoga retreat center `2022.04 - 2022-09`
 - Helping out in the kitchen to cook vegan food for retreat guests.
 
 ### Yoga retreat center `2021.04 - 2021.09`
