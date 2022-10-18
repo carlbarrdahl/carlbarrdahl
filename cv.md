@@ -4,6 +4,8 @@ Javascript developer with a wide array of experience working on projects such as
 
 +8 year experience in React and Node.js development. Favorite tools include Next.js, Chakra-UI, tRPC, Prisma, Turborepo, React Hook Forms, React Query, Zod and Supabase.
 
+You can reach me at: carlbarrdahl@gmail.com
+
 ## Contents:
 
 1. [Technical skills](#technical-skills)
@@ -111,13 +113,14 @@ A hybrid Web2/Web3 platform to create a DAO from your public GitHub repo. A toke
 </div>
 
 ### 📅 Kaly `2022 - `
+
 A decentralized calendar and scheduling app built with Ceramic.
 
 <div>
   <img align="top" width="50%" src="https://github.com/carlbarrdahl/kaly/raw/master/public/kaly.jpg" />
 </div>
 
-Technologies:  Next.js, Chakra-UI, Ceramic Network  
+Technologies: Next.js, Chakra-UI, Ceramic Network  
 Link: https://kaly.vercel.app  
 Code: https://github.com/carlbarrdahl/kaly
 
@@ -278,7 +281,9 @@ Code: https://github.com/carlbarrdahl/conviction-voting
 - Hardware programming
 
 ## Volunteering
+
 ### Yoga retreat center `2022.04 - 2022-09`
+
 - Helping out in the kitchen to cook vegan food for retreat guests.
 
 ### Yoga retreat center `2021.04 - 2021.09`
