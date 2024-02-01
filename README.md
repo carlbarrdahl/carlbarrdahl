@@ -1,5 +1,3 @@
-# Resume / CV
-
 As a creative React, TypeScript, and Solidity developer, I specialize in crafting robust digital infrastructure that shapes the future. My recent focus has been on developing grants platforms aimed at funding public goods, bolstering support for open-source developers and projects.
 
 With a strong foundation in both front-end and back-end technologies, I excel in creating seamless, efficient, and impactful digital solutions.
