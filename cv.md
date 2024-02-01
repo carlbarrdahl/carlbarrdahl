@@ -44,7 +44,7 @@ _Web3 Engineer_
 
 Prototyping and 0-1 workstream for Gitcoin.
 
-- EasyRetroPGF - an open platform for retroactive public goods funding
+- **EasyRetroPGF** - an open platform for retroactive public goods funding
   - https://github.com/gitcoinco/easy-retro-pgf
 
 ### Supermodular `2023.01 - 2023-10`
