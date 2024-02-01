@@ -1,8 +1,14 @@
 # Resume / CV
 
-Javascript developer with a wide array of experience working on projects such as realtime mobile games, e-commerce sites, an analytics dashboard for internet of things data, a food-ordering app, a ticketing platform, bots and more.
+As a creative React, TypeScript, and Solidity developer, I specialize in crafting robust digital infrastructure that shapes the future. My recent focus has been on developing grants platforms aimed at funding public goods, bolstering support for open-source developers and projects.
 
-+6 year experience in React and Node.js development. Quick and efficient. Knowledgeable in ecosystem and best-practices.
+With a strong foundation in both front-end and back-end technologies, I excel in creating seamless, efficient, and impactful digital solutions.
+
+My expertise spans a wide range of technologies including React (Next.js), Node.js, Smart Contracts, and various API integrations, making me a versatile asset to any development team.
+
+I am currently engaged in exciting work with WEST / Gitcoin Labs, bringing fresh ideas and robust solutions to the forefront of the Web3 space.
+
+Contact me at: carlbarrdahl@gmail.com
 
 ## Contents:
 

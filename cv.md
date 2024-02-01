@@ -1,10 +1,14 @@
 # Resume / CV
 
-Javascript developer with a wide array of experience working on projects such as realtime mobile games, e-commerce sites, an analytics dashboard for internet of things data, a food-ordering app, a ticketing platform, bots and more.
+As a creative React, TypeScript, and Solidity developer, I specialize in crafting robust digital infrastructure that shapes the future. My recent focus has been on developing grants platforms aimed at funding public goods, bolstering support for open-source developers and projects.
 
-+8 year experience in React and Node.js development. Favorite tools include Next.js, Chakra-UI, tRPC, Prisma, Turborepo, React Hook Forms, React Query, Zod and Supabase.
+With a strong foundation in both front-end and back-end technologies, I excel in creating seamless, efficient, and impactful digital solutions.
 
-You can reach me at: carlbarrdahl@gmail.com
+My expertise spans a wide range of technologies including React (Next.js), Node.js, Smart Contracts, and various API integrations, making me a versatile asset to any development team.
+
+I am currently engaged in exciting work with WEST / Gitcoin Labs, bringing fresh ideas and robust solutions to the forefront of the Web3 space.
+
+Contact me at: carlbarrdahl@gmail.com
 
 ## Contents:
 
@@ -17,31 +21,67 @@ You can reach me at: carlbarrdahl@gmail.com
 
 ## Technical skills
 
-- React (Next.js, Gatsby)
+- React (Next.js)
 - Node.js (Express, Fastify)
-- Typescript
 - Smart Contracts (Solidity, OpenZeppelin)
-- Data fetching (Apollo, React-Query)
+- Data fetching (Apollo, ReactQuery)
 - API (GraphQL, OpenAPI, Swagger)
 - Authentication (Oauth2, Auth0, Web3)
 - Cloud (Firebase, gcloud, Azure, AWS)
-- Styling (chakra-ui, theme-ui, styled-components, tailwind.css)
-- ORM (Prisma, Knex, Sequelize, TypeORM)
-- Testing (Jest, Cypress)
-- API integration (Stripe, Google, Youtube)
+- CSS/Styling/Components (Tailwind, Chakra UI)
+- ORM (Prisma, Drizzle)
+- Testing (Vitest, Playwright, Cypress)
+- API integration (Stripe, Shopify, Zapier)
 - Charts (Nivo, Recharts)
 - Content (Markdown, MDX)
 - Figma
-- Web3 (Ceramic Network, basic Solidity)
 
 ## Work
+
+### WEST / Gitcoin Labs `2023.10 - current`
+
+_Web3 Engineer_
+
+Prototyping and 0-1 workstream for Gitcoin.
+
+- EasyRetroPGF - an open platform for retroactive public goods funding
+  - https://github.com/gitcoinco/easy-retro-pgf
+
+### Supermodular `2023.01 - 2023-10`
+
+_Web3 Engineer_
+
+Launched several 0-1 projects including:
+
+- RetroPGF3 - platform for retroactively funding public goods built for Optimism as an RFP
+  - https://github.com/supermodularxyz/OP-RetroPGF
+  - https://github.com/ethereum-optimism/ecosystem-contributions/issues/104
+  - https://github.com/ethereum-optimism/ecosystem-contributions/issues/106
+- Optimism Bridge for PGN
+  - https://github.com/publicgoodsnetwork/pgn-monorepo/
+- Crowdfund Matchingpool - built on top of Allo Protocol to easily set up a matching pool
+  - https://github.com/supermodularxyz/crowdfund-matchingpool
+- PGN Faucet - a forkable Gitcoin Passport-guarded facuet
+  - https://github.com/supermodularxyz/pgn-faucet
+- Zuzalu Registry -
+  - https://github.com/supermodularxyz/grants-stack-bulk-uploader
+- HoneyQF - a mobile experience for quadratic voting
+  - https://github.com/supermodularxyz/qf-flash
+- Gratitude Party - an easy and quick way of creating a Hypercert to show gratitude
+  - https://github.com/supermodularxyz/gratitude.party
+
+Supermodular went into structural changes and was in October 2023 transformed into WEST, a Gitcoin Labs workstream.
 
 ### Zephyr Valley `2020.01 - Current`
 
 _Independent freelance consultant_
 
-- Various projects. Mostly frontend development with Next.js and Chakra-UI.
-- Smart Contract / Blockchain applications using Solidity and React for frontend
+- botto - a Shopify App for food trucks and pop-up cafés
+  - https://apps.shopify.com/botto-1
+- Swisher - a menu builder for Swedish payment app Swish
+  - https://github.com/carlbarrdahl/swisher
+- Escrow for Freeflow + Blog post
+  - https://www.freeflow.network/blog/escrow-part-1-smart-contract
 
 ### Evolve Technologies `2018.03 - 2019.06`
 
