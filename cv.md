@@ -53,21 +53,21 @@ _Web3 Engineer_
 
 Launched several 0-1 projects including:
 
-- RetroPGF3 - platform for retroactively funding public goods built for Optimism as an RFP
+- **RetroPGF3** - platform for retroactively funding public goods built for Optimism as an RFP
   - https://github.com/supermodularxyz/OP-RetroPGF
   - https://github.com/ethereum-optimism/ecosystem-contributions/issues/104
   - https://github.com/ethereum-optimism/ecosystem-contributions/issues/106
-- Optimism Bridge for PGN
+- **Optimism Bridge for PGN**
   - https://github.com/publicgoodsnetwork/pgn-monorepo/
-- Crowdfund Matchingpool - built on top of Allo Protocol to easily set up a matching pool
+- **Crowdfund Matchingpool** - built on top of Allo Protocol to easily set up a matching pool
   - https://github.com/supermodularxyz/crowdfund-matchingpool
-- PGN Faucet - a forkable Gitcoin Passport-guarded facuet
+- **PGN Faucet** - a forkable Gitcoin Passport-guarded facuet
   - https://github.com/supermodularxyz/pgn-faucet
-- Zuzalu Registry -
+- **Grants Stack batch uploader**
   - https://github.com/supermodularxyz/grants-stack-bulk-uploader
-- HoneyQF - a mobile experience for quadratic voting
+- **HoneyQF** - a mobile experience for quadratic voting
   - https://github.com/supermodularxyz/qf-flash
-- Gratitude Party - an easy and quick way of creating a Hypercert to show gratitude
+- **Gratitude Party** - an easy and quick way of creating a Hypercert to show gratitude
   - https://github.com/supermodularxyz/gratitude.party
 
 Supermodular went into structural changes and was in October 2023 transformed into WEST, a Gitcoin Labs workstream.
@@ -76,11 +76,11 @@ Supermodular went into structural changes and was in October 2023 transformed in
 
 _Independent freelance consultant_
 
-- botto - a Shopify App for food trucks and pop-up cafés
-  - https://apps.shopify.com/botto-1
-- Swisher - a menu builder for Swedish payment app Swish
+- **Swisher** - a menu builder for Swedish payment app Swish
   - https://github.com/carlbarrdahl/swisher
-- Escrow for Freeflow + Blog post
+- **botto** - a Shopify App for food trucks and pop-up cafés
+  - https://apps.shopify.com/botto-1
+- **Escrow for Freeflow + Blog post**
   - https://www.freeflow.network/blog/escrow-part-1-smart-contract
 
 ### Evolve Technologies `2018.03 - 2019.06`
