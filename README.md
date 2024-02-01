@@ -8,8 +8,6 @@ My expertise spans a wide range of technologies including React (Next.js), Node.
 
 I am currently engaged in exciting work with WEST / Gitcoin Labs, bringing fresh ideas and robust solutions to the forefront of the Web3 space.
 
-Contact me at: carlbarrdahl@gmail.com
-
 ## Contents:
 
 1. [Technical skills](https://github.com/carlbarrdahl/carlbarrdahl/blob/master/cv.md#technical-skills)
