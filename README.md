@@ -1,10 +1,7 @@
-As a creative React, TypeScript, and Solidity developer, I specialize in crafting robust digital infrastructure that shapes the future. My recent focus has been on developing grants platforms aimed at funding public goods, bolstering support for open-source developers and projects.
+I'm a developer focused on React, TypeScript, and Solidity, specializing in building Web3 projects from zero to one. My work centers on developing grants platforms that empower open-source developers and fund public goods initiatives.
+As a full-stack developer, I build with modern technologies like Next.js, Node.js, and smart contracts. 
 
-With a strong foundation in both front-end and back-end technologies, I excel in creating seamless, efficient, and impactful digital solutions.
-
-My expertise spans a wide range of technologies including React (Next.js), Node.js, Smart Contracts, and various API integrations, making me a versatile asset to any development team.
-
-I am currently engaged in exciting work with WEST / Gitcoin Labs, bringing fresh ideas and robust solutions to the forefront of the Web3 space.
+My recent projects include retroactive public goods funding platforms and decentralized crowdfunding solutions.
 
 ## Contents:
 
