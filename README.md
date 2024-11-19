@@ -1,5 +1,3 @@
-_Full-Stack and Smart Contract Developer_
-
 Full-stack and Smart Contract Developer with over 10 years of experience specializing in React, TypeScript, and Solidity. Passionate about leveraging technology for social good, particularly in building innovative Web3 projects that empower communities and promote sustainable development. Proven track record in developing grants platforms that empower open-source developers and fund public goods initiatives. Seeking to contribute expertise in blockchain and full-stack development to organizations focused on social impact and sustainability.
 
 ## Contents:
