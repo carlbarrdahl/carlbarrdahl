@@ -1,329 +1,235 @@
-# Resume / CV
+# Carl Barrdahl
+
+_Full-Stack and Smart Contract Developer_
+
+Email: [carlbarrdahl@gmail.com](mailto:carlbarrdahl@gmail.com)  
+LinkedIn: [linkedin.com/in/carlbarrdahl](linkedin.com/in/carlbarrdahl)  
+GitHub: [github.com/carlbarrdahl](https://github.com/carlbarrdahl)
+
+## Professional Summary
+
+Full-stack and Smart Contract Developer with over 10 years of experience specializing in React, TypeScript, and Solidity. Passionate about leveraging technology for social good, particularly in building innovative Web3 projects that empower communities and promote sustainable development. Proven track record in developing grants platforms that empower open-source developers and fund public goods initiatives. Seeking to contribute expertise in blockchain and full-stack development to organizations focused on social impact and sustainability.
+
+## Technical Skills
+
+- **Front-End**: React, Next.js, ShadcnUI, Tailwind CSS, ReactQuery, Chakra UI, Figma
+- **Back-End**: Node.js, Express, Fastify, Prisma, Drizzle ORM
+- **Blockchain & Decentralized Technologies**: Solidity, OpenZeppelin, Smart Contracts, Zero-Knowledge Proofs, Quadratic Voting/Funding, Decentralized Governance Models, IPFS
+- **Data & APIs**: GraphQL, Apollo, React Query, OpenAPI, Swagger, tRPC
+- **Authentication**: OAuth2, Auth0, Web3 Authentication (SIWE)
+- **Cloud Services**: Supabase, Firebase, Google Cloud Platform, Azure, AWS
+- **Testing**: Vitest, Playwright, Cypress
+- **Tools & Others**: Stripe, Shopify, Zapier, Nivo, Recharts, Markdown, MDX
+- **AI & Machine Learning**: OpenAI, Claude, RAG
+- **Sustainability & Social Impact**: Knowledge of UN Sustainable Development Goals, regenerative economics, social entrepreneurship
+
+## Professional Experience
+
+### Gitcoin
+
+**Web3 Engineer** | Remote | **October 2023 – September 2024**
+
+- Led prototyping and development of 0-1 workstreams, enhancing Gitcoin's platform capabilities.
+- Developed **EasyRetroPGF**, an open platform for retroactive public goods funding.
+  - Smart Contract for distributing funds built on Allo2
+  - _Technologies Used_: React, TypeScript, Solidity, Next.js
+  - _GitHub_: [EasyRetroPGF Repository](https://github.com/gitcoinco/easy-retro-pgf)
+  - _Web_: [EasyRetroPGF Website](https://easyretropgf.xyz)
+- Built Voting UI for **Optimism RetroPGF4**
+  - _GitHub_: [RetroPGF4 Repository](https://github.com/gitcoinco/op-rf4-voting-ui)
+  - _Web_: [RetroPGF4 Website](https://round4.optimism.io)
+
+### Supermodular
+
+**Web3 Engineer** | Remote | **January 2023 – October 2023**
+
+- Launched multiple 0-1 projects, contributing to the Web3 ecosystem:
+  - **RetroPGF3**: Platform for retroactively funding public goods built for Optimism.
+    - _GitHub_: [OP-RetroPGF](https://github.com/supermodularxyz/OP-RetroPGF)
+    - _Web_: [RetroPGF4 Website](https://round3.optimism.io)
+    - _Optimism Issues_: [Issue 104](https://github.com/ethereum-optimism/ecosystem-contributions/issues/104), [Issue 106](https://github.com/ethereum-optimism/ecosystem-contributions/issues/106)
+  - **Optimism Bridge for PGN**: Developed a bridge to enhance interoperability.
+    - _GitHub_: [PGN Monorepo](https://github.com/publicgoodsnetwork/pgn-monorepo/)
+  - **Crowdfund Matching Pool**: Simplified matching pool setup using Allo Protocol.
+    - _GitHub_: [Crowdfund Matching Pool](https://github.com/supermodularxyz/crowdfund-matchingpool)
+  - **PGN Faucet**: A forkable Gitcoin Passport-guarded faucet.
+    - _GitHub_: [PGN Faucet](https://github.com/supermodularxyz/pgn-faucet)
+  - **Grants Stack Batch Uploader**
+    - _GitHub_: [Grants Stack Bulk Uploader](https://github.com/supermodularxyz/grants-stack-bulk-uploader)
+  - **HoneyQF**: A mobile experience for quadratic voting.
+    - _GitHub_: [QF Flash](https://github.com/supermodularxyz/qf-flash)
+  - **Gratitude Party**: An easy and quick way of creating a Hypercert to show gratitude.
+    - _GitHub_: [Gratitude Party](https://github.com/supermodularxyz/gratitude.party)
+- Adapted to organizational changes, contributing to the transformation into WEST, a Gitcoin Labs workstream.
+
+### Zephyr Valley
+
+**Independent Freelance Consultant** | Remote | **January 2020 – Present**
+
+- Developed **SquareVote** (2024): A microapp for quadratic voting.
+  - Simplified quadratic voting processes for communities and organizations.
+  - _Technologies Used_: Next.js, Prisma, tRPC, Tailwind CSS
+  - _Links_: [SquareVote App](https://squarevote.app), [GitHub](https://github.com/carlbarrdahl/squarevote)
+- Created **Qumin** (2024): A microapp for digital queues.
+  - Streamlined digital queue management for businesses and events.
+  - _Technologies Used_: Next.js, Prisma, tRPC, Tailwind CSS
+  - _Links_: [Qumin App](https://qumin.app), [GitHub](https://github.com/carlbarrdahl/qumin)
+- Developed **Swisher** (2024): A menu builder for Swedish payment app Swish.
+  - _Links_: [Swisher App](https://swisher.vercel.app), [GitHub](https://github.com/carlbarrdahl/swisher)
+- Created **Botto**: A Shopify App for food trucks and pop-up cafés.
+  - _Shopify App_: [Botto](https://apps.shopify.com/botto-1)
+- Developed an **Escrow Service** for Freeflow Network and authored a blog post.
+  - _Blog Post_: [Escrow Part 1 - Smart Contract](https://www.freeflow.network/blog/escrow-part-1-smart-contract)
+
+### **Additional Experience**
+
+- **Full-Stack Developer**, Evolve Technologies | **March 2018 – June 2019**
+- **Web Developer Consultant**, Annevo | **February 2017 – February 2018**
+- **Frontend Developer**, Telenor Connexion | **2016**
+- **Frontend Developer**, Ticketmaster | **2014 – 2015**
+- **Frontend Developer**, Sigma | **2013 – 2014**
+- **Game Developer**, Spielo G2 | **2012 – 2013**
+
+_Details available upon request._
+
+## Sustainability Projects
+
+### Accord - Empowering Communities Through Decentralized Civic Engagement
+
+**Research & Development** | **September 2024**
+
+- Researched an open-source, blockchain-based platform designed to empower communities and neighborhoods by facilitating decentralized civic engagement.
+- **Key Contributions**:
+  - Leveraged blockchain, AI, and quadratic voting to enhance transparent and democratic processes.
+  - Implemented zero-knowledge proofs to ensure user privacy and security.
+  - Designed AI-enhanced proposals to support users in formulating and improving community initiatives.
+- **Technologies Used**: Blockchain (Smart Contracts), AI, Quadratic Voting Mechanisms, Zero-Knowledge Proofs.
+- **Outcome**:
+  - Addressed societal challenges like economic displacement, civic disengagement, and environmental degradation.
+  - Proposed a sustainable business model with minimal transaction fees and strategic partnerships.
+- **Link**: [Business Case](https://hackmd.io/@carlb/accord)
 
-I'm a developer focused on React, TypeScript, and Solidity, specializing in building Web3 projects from zero to one. My work centers on developing grants platforms that empower open-source developers and fund public goods initiatives.
-As a full-stack developer, I build with modern technologies like Next.js, Node.js, and smart contracts. 
+### A Flywheel of Regenerative Development
 
-My recent projects include retroactive public goods funding platforms and decentralized crowdfunding solutions.
+**Research & Development** | **May 2024**
 
+- Explored innovative funding mechanisms to drive regenerative activities, focusing on creating a flywheel effect of funding, impact, and trust through transparency and accountability.
+- **Key Contributions**:
+  - Proposed a framework for efficient capital allocation using blockchain technology.
+  - Identified global challenges related to climate, conflict, and hunger, and presented solutions involving regenerative projects and stakeholder collaboration.
+  - Developed implementation plans for short-term and long-term strategies to foster regenerative development.
+- **Technologies and Concepts**: Blockchain, Smart Contracts, Impact Evaluation Metrics, Decentralized Funding Mechanisms.
+- **Outcome**:
+  - Created a model encouraging companies and individuals to fund regenerative projects with verifiable impact.
+  - Addressed UN Sustainable Development Goals: Zero Hunger and Partnerships for the Goals.
+- **Link**: [Business Case](https://hackmd.io/@carlb/regen-flywheel)
 
-Contact me at: carlbarrdahl@gmail.com
+## Side Projects and Hackathons
 
-## Contents:
+### Git DAO
 
-1. [Technical skills](#technical-skills)
-2. [Work](#work)
-3. [Side-projects](#side-projects)
-4. [Web3 Hackathons](#hackathons)
-5. [Education](#education)
-6. [Volunteering](#volunteering)
+**Developer** | **2022**
 
-## Technical skills
+- A hybrid Web2/Web3 platform to create a DAO from a public GitHub repository.
+- Created an ERC20 token and Vesting Wallet with 365 days linear vesting.
+- Implemented features for incentivizing contributions to open-source projects.
+- **Technologies**: Next.js, Solidity, Ethereum Smart Contracts
+- **GitHub**: [Git DAO](https://github.com/carlbarrdahl/git-dao)
 
-- React (Next.js)
-- Node.js (Express, Fastify)
-- Smart Contracts (Solidity, OpenZeppelin)
-- Data fetching (Apollo, ReactQuery)
-- API (GraphQL, OpenAPI, Swagger)
-- Authentication (Oauth2, Auth0, Web3)
-- Cloud (Firebase, gcloud, Azure, AWS)
-- CSS/Styling/Components (Tailwind, Chakra UI)
-- ORM (Prisma, Drizzle)
-- Testing (Vitest, Playwright, Cypress)
-- API integration (Stripe, Shopify, Zapier)
-- Charts (Nivo, Recharts)
-- Content (Markdown, MDX)
-- Figma
+### Skulptur
 
-## Work
+**Developer** | **October 2021**
 
-### Gitcoin `2023.10 - 2024.09`
+- **Winner**: Open Prize for Best Hack Using Self.ID or Glaze at Sovereign Data Hackathon.
+- Developed a decentralized Google Forms platform using Ceramic Network.
+- **Technologies**: Next.js, Chakra UI, Ceramic Network
+- **Links**: [Live Demo](https://skulptur.vercel.app), [GitHub](https://github.com/carlbarrdahl/skulptur)
 
-_Web3 Engineer_
+### Atoll IDO
 
-Prototyping and 0-1 workstream for Gitcoin.
+**Developer** | **October 2021**
 
-- **EasyRetroPGF** - an open platform for retroactive public goods funding
-  - https://github.com/gitcoinco/easy-retro-pgf
+- IDO launchpad platform built for DeFi & Cross-Chain Interoperability Hackathon.
+- **Technologies**: Next.js, Polkadot, Chakra UI, Solidity
+- **Links**: [Live Demo](https://atoll-ido.web.app), [GitHub](https://github.com/carlbarrdahl/atoll-ido)
 
-### Supermodular `2023.01 - 2023-10`
+### Reef Payment API Gateway
 
-_Web3 Engineer_
+**Developer** | **October 2021**
 
-Launched several 0-1 projects including:
+- **Winner**: Reef Payment API in DeFi & Cross-chain Interoperability Hackathon.
+- Enabled merchants with online stores to accept payments with REEF wallet.
+- **Technologies**: Next.js, Chakra UI, Firebase, Polkadot
+- **Links**: [Live Demo](https://reef-payment-api.web.app/), [GitHub](https://github.com/carlbarrdahl/reef-payment-api)
 
-- **RetroPGF3** - platform for retroactively funding public goods built for Optimism as an RFP
-  - https://github.com/supermodularxyz/OP-RetroPGF
-  - https://github.com/ethereum-optimism/ecosystem-contributions/issues/104
-  - https://github.com/ethereum-optimism/ecosystem-contributions/issues/106
-- **Optimism Bridge for PGN**
-  - https://github.com/publicgoodsnetwork/pgn-monorepo/
-- **Crowdfund Matchingpool** - built on top of Allo Protocol to easily set up a matching pool
-  - https://github.com/supermodularxyz/crowdfund-matchingpool
-- **PGN Faucet** - a forkable Gitcoin Passport-guarded facuet
-  - https://github.com/supermodularxyz/pgn-faucet
-- **Grants Stack batch uploader**
-  - https://github.com/supermodularxyz/grants-stack-bulk-uploader
-- **HoneyQF** - a mobile experience for quadratic voting
-  - https://github.com/supermodularxyz/qf-flash
-- **Gratitude Party** - an easy and quick way of creating a Hypercert to show gratitude
-  - https://github.com/supermodularxyz/gratitude.party
+### Kaleido
 
-Supermodular went into structural changes and was in October 2023 transformed into WEST, a Gitcoin Labs workstream.
+**Developer** | **2020**
 
-### Zephyr Valley `2020.01 - Current`
+- Experimented with Three.js and camera to transform the camera feed into a kaleidoscope using WebGL shaders.
+- Implemented an ERC721 contract with bonding curve to determine minting price.
+- **Technologies**: React (Next.js), Three.js (react-three-fiber)
+- **Links**: [Live Demo](https://kaleido-app.vercel.app), [GitHub](https://github.com/carlbarrdahl/kaleido-nft)
 
-_Independent freelance consultant_
+### Other Projects
 
-- **Swisher** - a menu builder for Swedish payment app Swish
-  - https://github.com/carlbarrdahl/swisher
-- **botto** - a Shopify App for food trucks and pop-up cafés
-  - https://apps.shopify.com/botto-1
-- **Escrow for Freeflow + Blog post**
-  - https://www.freeflow.network/blog/escrow-part-1-smart-contract
-
-### Evolve Technologies `2018.03 - 2019.06`
-
-_Fullstack developer consultant_
-
-- Developed a brand new frontend for a company in the real estate business. Worked closely with one graphic designer, one UX designer and a backend team of five in a agile environment using Jira for project management. Next.js, Apollo, GraphQL.
-- Worked with two developers and one UI / UX designer to build an e-health platform for video calls with mobile app and admin dashboard. Serverless, MongoDB, BankID.
-- Built a dashboard for an emergency response centre showing vehicles on a map in realtime.
-- Built a progressive web app for IKEA Family to be used to sign in attendees for their internal events. QR scanner to read tickets and offline support.
-
-### Annevo `2017.02 - 2018.2`
-
-_Web developer consultant_
-
-- Created real-time components in React and Redux used to manage orders from the different stations in the restaurant. Integrated push notifications for customer communications in the app.
-- IoT platform in which I created realtime data visualization components in React and Redux. Deployed to AWS for high availability and low latency real-time communications. Integrated with Elasticsearch for advanced search queries. Worked in a team of 3 frontend developers and 3 backend developers.
-
-Built several internal prototypes including:
-
-- Online realtime multiplayer mobile game in React Native and GameSparks as backend, push notifications to increase player engagement and payment using Swish (swedish mobile bank app) integration.
-- Built a tool to create Facebook and Instagram ads using their real estate property data and photos.
-- Built a React Native app for tracking the quality of motocross tracks using Google Cloud and Firebase on backend.
-
-### Telenor Connexion `2016 - 2016`
-
-- Created high quality data visualizing components in React and Redux
-- Deployed to AWS for high availability and low latency real-time communications
-- Integrated with Elasticsearch for advanced search queries
-
-### Ticketmaster `2014 - 2015`
-
-_Frontend developer_
-
-- Created prototypes of new features in React
-- Worked on checkout flow
-
-### Sigma (and Maverick by Sigma) `2013 - 2014`
-
-_Frontend developer_
-
-- Front-end development on a large municipal intranet solution built on .NET and EPiServer
-
-### Spielo G2 `2012 - 2013`
-
-_Game developer_
-
-- Developed mobile games in HTML5 running on a backend game engine emitting events via WebSockets
-- Built on a module based game engine where several different games shared the same modules
-- Cross device development (desktop, tablets, phones)
-
-## Side-projects
-
-### 🚀 Git DAO `2022 - `
-
-A hybrid Web2/Web3 platform to create a DAO from your public GitHub repo. A token is created which can be used to incentizie contributions. A project is a Vesting Wallet with 365 days linear vesting.
-
-1. Sign in with GitHub to see a list of repos the user has access to
-2. A backend service creates a hash and signature after verifying user has in fact access
-3. Send repo to smart contract which verifies signature and creates a project
-4. An ERC20 token with 1M supply is created and mints 10k to owner (1% of all tokens)
-5. The owner can optionally supply their tokens to Uniswap with ETH to create initial market
-6. People can participate by contributing with code, bug reports or other ways to create value to the project and be rewarded in tokens for their work.
-7. People or companies can fund the project or even specific issues to help with prioritization
-
-<div>
-  <img align="top" width="30%" src="https://github.com/carlbarrdahl/git-dao/raw/master/.screenshots/onboard_1.png" />
-  <img align="top" width="30%" src="https://github.com/carlbarrdahl/git-dao/raw/master/.screenshots/onboard_2.png" />
-  <img align="top" width="30%" src="https://github.com/carlbarrdahl/git-dao/raw/master/.screenshots/project_1.png" />
-</div>
-
-### 📅 Kaly `2022 - `
-
-A decentralized calendar and scheduling app built with Ceramic.
-
-<div>
-  <img align="top" width="50%" src="https://github.com/carlbarrdahl/kaly/raw/master/public/kaly.jpg" />
-</div>
-
-Technologies: Next.js, Chakra-UI, Ceramic Network  
-Link: https://kaly.vercel.app  
-Code: https://github.com/carlbarrdahl/kaly
-
-### 🌼 Kaleido `2020 - `
-
-Experiment with Three.js and camera. Transforms the camera feed into a kaleidoscope using WebGL shaders. Simple controls to change the parameters for the shaders.
-ERC721 Contract with bonding curve to determine minting price
-
-<div>
-  <img align="top" width="40%" src="https://github.com/carlbarrdahl/kaleido-nft/raw/master/kaleido_screenshot_app.png">
-  <img align="top" width="54%" src="https://github.com/carlbarrdahl/kaleido-nft/raw/master/kaleido_screenshot_full.png">
-</div>
-
-Technologies: React (Next.js), Three.js (react-three-fiber)  
-Link: https://kaleido-nft.vercel.app  
-Code: https://github.com/carlbarrdahl/kaleido-nft
-
-### Music project marketplace `2019`
-
-A marketplace for music creators to sell their project files. Embeds a YouTube video explaining the contents of the project and integrates Stripe for payments.
-
-<div>
-  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/figma.png" alt="Figma sketch" width="32%"/>
-  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/landing.png" alt="Landing page" width="32%"/>
-  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/music-marketplace/view_project.png" alt="View project" width="32%"/>
-</div>
-
-Technologies: React, Stripe, Firebase  
-Link: https://loopsquare.web.app/zen-world/project-name
-
-### Pakt `2019`
-
-Create, manage and sign digital contracts using the mobile app BankID (used in Sweden to authenticate your identity).
-
-Pakt is a platform where users can create and share contracts. Documents are uniquely identified with a hash of its content to ensure everyone signs the same copy and no tampering is done. Signing and verification of users identity is done with BankID which is the leading electronic identification app in Sweden.
-
-Other services can easily be integrated by specifying webhooks that gets triggered when changes occur in the system.
-
-Future improvements could include adding Swish (similar to BankID but for sms payments) to add costs to creating documents or signatures. Users could also be notified by sms when contracts are assigned or new signatures created to connected contract.
-
-Some documents might be sensitive to store on central servers. In that case something like ipfs could be used to store the documents and then secure them with smart contracts on a blockchain, Ethereum for instance.
-
-<div>
-  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/create.png" alt="Create contract" width="32%"/>
-  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/view.png" alt="View contract" width="32%"/>
-  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/sign.png" alt="Sign contract" width="32%"/>
-  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/list.png" alt="List contracts" width="32%"/>
-  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/web/master/src/assets/pakt/webhooks.png" alt="Webhooks" width="32%"/>
-</div
-  
-- Contracts are easily created by dragging a document to upload (or browsing) and filling out the details. Start and end date for contract validity can be set and participants can be added by entering their email.
-- Documents are embedded to easily be read without need of downloading. Future improvements can include templates to dynamically generate documents based on data.
-- Sign contract by entering your SSN and open app on mobile. QR code can be added for a more secure (and convenient) signing experience.
-
-### Recipe app `2019`
-
-Experimenting with Progressive Web Apps (PWA), web scrapers and JSON+LD.
-I often just search for recipes on Google with my phone but the pages are filled with articles, ads and other non-relevant content with no easy way to save these recipes for future use.
-I built a product to simply share the recipe to a PWA (using Web Share Target API). This will trigger a robot to crawl the recipe data and store in a Firebase database.
-
-Technologies: React, Theme-UI, Firebase, Puppeteer (scraper)  
-Link: https://recipes-e0cee.web.app/recipes
-
-### Swisher `2019`
-
-Playing around with QR codes and crypto.
-Simple Progressive Web App built in React to generate QR codes and links for payments in swedish banking app Swish. This makes it easier to share payments between people for splitting bills for example. Using crypto to encrypt phone number and payment data so they can safely be shared in the url.
-
-<img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/swisher/master/static/screen.png" alt="Swisher App UI" width="32%"/>
-
-Technologies: React (gatsby), Tailwind, Netlify  
-Link: http://swisher.carlb.dev  
-Code: https://github.com/carlbarrdahl/swisher
-
-### Thought flow `2019`
-
-Personal journaling app. Playing around with Gatsby and Tailwindcss.
-
-Technologies: React (gatsby), Tailwind  
-Link: https://github.com/carlbarrdahl/thought-flow
-
-### Swish Payments `2018`
-
-Open source library written in Typescript to communicate with Swedish Bank app api Swish.
-
-Technologies: Typescript, Jest  
-Link: https://github.com/carlbarrdahl/swish-payments
-
-### Busstrams `2014`
-
-First React project. An app to view bus and tram schedule for local transportation.
-
-Technologies: React (v.0.12), Reflux, Gulp, Stylus  
-Code: https://github.com/carlbarrdahl/busstrams
-
-## Hackathons
-
-### Skulptur `2021.10`
-
-_🥇 Winner of Open Prize: Best Hack Using Self.ID Or Glaze in Sovereign Data Hackathon_
-
-Decentralized Google Forms platform with Ceramic Network. Create forms and surveys with json-schemas and share with your friends. Forms and responses are stored on ipfs connected to your web3 wallet.
-
-<div>
-  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/skulptur/master/screenshot.png" alt="Skulptur App UI" width="32%"/>
-</div
-  
-Technologies: Next.js, Chakra-UI, Ceramic Network  
-Code: https://github.com/carlbarrdahl/skulptur  
-Link: https://skulptur.vercel.app
-
-### Atoll IDO `2021.10`
-
-IDO launchpad platform built for DeFi & Cross-Chain Interoperability Hackathon.
-
-<div>
-  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/atoll-ido/master/screenshot2.png" alt="Atoll IDO" width="32%"/>
-</div
- 
-Technologies: Next.js, Polkadot, Chakra-UI, Solidity  
-Code: https://github.com/carlbarrdahl/atoll-ido  
-Link: https://atoll-ido.web.app
-
-### Reef Payment API Gateway `2021.10`
-
-_🥇 Winner of Reef Payment API in DeFi & Cross-chain Interoperability Hackathon_
-
-Merchants with online store can choose to accept payments with REEF wallet.
-
-<div>
-  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/reef-payment-api/master/screenshot_admin.png" alt="Admin UI" width="32%"/>
-  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/reef-payment-api/master/screenshot_shop1.png" alt="Shop UI" width="32%"/>
-  <img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/reef-payment-api/master/screenshot_checkout.png" alt="Checkout UI" width="32%"/>
-</div
-
-Technologies: Next.js, Chakra-UI, Firebase, Polkadot  
-Code: https://github.com/carlbarrdahl/reef-payment-api  
-Link: https://reef-payment-api.web.app/
-
-### Conviction Voting `2021.02`
-
-Off-chaing Conviction Voting using Ceramic, IDX and TheGraph.
-
-<img align="top" src="https://raw.githubusercontent.com/carlbarrdahl/conviction-voting/master/ceramic_voting.png" alt="Conviction Voting UI" width="32%"/>
-
-Technologies: React, Ceramic Network, Fastify, Typescript  
-Code: https://github.com/carlbarrdahl/conviction-voting
+- **Kaly**: A decentralized calendar and scheduling app built with Ceramic.
+  - **Technologies**: Next.js, Chakra UI, Ceramic Network
+  - **Links**: [Live Demo](https://kaly.vercel.app), [GitHub](https://github.com/carlbarrdahl/kaly)
+- **Music Project Marketplace**: Marketplace for music creators to sell their project files.
+  - **Technologies**: React, Stripe, Firebase
+- **Pakt**: Platform to create, manage, and sign digital contracts using BankID.
+  - **Features**: Document hashing, smart contracts, webhooks integration.
+  - **Technologies**: React, Fastify, MongoDB
 
 ## Education
 
-### Linnaeus University `2009.09 - 2012.06`
+### Hyper Island
 
-- Media technology
-- Web development
-- Game development
-- User experience
-- Interaction design
-- Hardware programming
+_Part-Time Remote Business Development Course Focusing on Sustainability Development Goals_  
+**April 2024 – December 2024**
 
-## Volunteering
+- **Modules**:
+  - Sustainable Models
+  - Exponential Technologies
+  - Future Scenarios
+- **Projects**:
+  - Developed "Accord" platform for decentralized civic engagement.
+  - Researched innovative funding mechanisms for regenerative development.
+- **Key Learnings**:
+  - Integrated exponential technologies to address societal challenges.
+  - Developed sustainable business models aligned with UN SDGs.
 
-### Yoga retreat center `2022.04 - 2022-09`
+### Linnaeus University
 
-- Helping out in the kitchen to cook vegan food for retreat guests.
+**Bachelor of Science in Media Technology**  
+Sweden | **September 2009 – June 2012**
 
-### Yoga retreat center `2021.04 - 2021.09`
+- **Focus Areas**:
+  - Web Development
+  - Game Development
+  - User Experience
+  - Interaction Design
+  - Entrepreneurship
+  - Hardware Programming
 
-- Helping out in the kitchen to cook vegan food for retreat guests.
+## Volunteer Experience
+
+### Kitchen Volunteer
+
+_Yoga Retreat Center_ | **April 2021 – January 2024** (weeks or months at a time)
+
+- Assisted in preparing vegan meals for retreat guests, promoting sustainable and healthy eating practices.
+- Developed strong teamwork skills in a collaborative environment focused on wellness, mindfulness, and environmental sustainability.
+
+## Publications
+
+- **"Reclaiming Agency: The Role of Decentralized Technology in Shaping 2035"**  
+  Medium | **September 2024**  
+  [Link](https://medium.com/@carl.b/28445758f748)
+
+## Additional Skills
+
+- **Languages**: English (Fluent), Swedish (Native)
+- **Soft Skills**: Project Management, Strategic Planning, Team Collaboration, Problem-Solving, Communication
+- **Interests**: Sustainability, Social Entrepreneurship, Open-Source Development, Building In Public, Community Building
