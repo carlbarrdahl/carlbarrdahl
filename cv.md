@@ -202,7 +202,7 @@ _Part-Time Remote Business Development Course Focusing on Sustainability Develop
 
 ### Linnaeus University
 
-**Bachelor of Science in Media Technology**  
+**Studies in Media Technology**  
 Sweden | **September 2009 – June 2012**
 
 - **Focus Areas**:
